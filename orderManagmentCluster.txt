@@ -1,0 +1,10 @@
+user: dominikB
+pass: 11Dl840ldyJDdf8O
+
+//TODO
+1.sprawdzic not nulle przy dodawaniu adresu
+2.dodac validacje na froncie pol np jakby ktos chcial dodac stringa zamiast int-a
+3.dodac sortowanie po cenie
+4.Mozliwe ze w orderze trzeba jakos zamienic dodawanie produktu zeby sie lepiej mapowalo z frontu
+5.Pododawać updaty i usuwania dla wszystkich encji
+6.Sprawdzić czy wszystkie metody z repozytoriów są wykorzystywane
